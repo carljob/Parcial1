@@ -7,10 +7,15 @@ Estructura Maven lista. Java 21. JUnit incluido por si hay pruebas.
 parcial/
 ├── pom.xml
 └── src/
-    ├── main/java/edu/eci/arsw/   <- aquí van clases
-    └── test/java/edu/eci/arsw/   <- aquí van los tests
+    ├── main/java/edu/eci/arsw/
+                            ├── back
+                                   ├── controller 
+                                   ├── model
+                                   ├── service
+                            ├── front
+    └── test/java/edu/eci/arsw/   
 ```
-
+                    
 ## Comandos
 
 Compilar (revisar que el código no tenga errores):
