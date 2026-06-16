@@ -19,3 +19,6 @@ public class Client {
             recepcionistaThread.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
+        }
+    }
+}
