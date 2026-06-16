@@ -11,7 +11,7 @@ parcial/
     └── test/java/edu/eci/arsw/   <- aquí van los tests
 ```
 
-## Comandos que SÍ debes saber el día del parcial
+## Comandos
 
 Compilar (revisar que el código no tenga errores):
 ```
