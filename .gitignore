@@ -1,0 +1,9 @@
+# Compilado de Maven
+target/
+
+# Archivos de IntelliJ
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
